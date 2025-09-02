@@ -7,7 +7,7 @@ Data Science Enthusiat
 Hello everyone, I'm Anjali currently learning Data Science.
 
 *   🌍  I'm based in Bihar, India
-*   ✉️  You can contact me at [anjalikumari0844503@gmail.com](mailto:anjalikumari0844503@gmail.com)
+*   ✉️  You can contact me at [anjali.tech25@gmail.com](mailto:anjali.tech25@gmail.com)
 *   🧠  I'm learning Python and C++
 ### Skills 
 <p align="left">
